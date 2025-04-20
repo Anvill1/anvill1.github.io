@@ -1,0 +1,15 @@
+repositoryID: 3558e4c1-d742-47bc-b331-14f95322eeca
+name: soloanvill-backend-chart
+displayName: SoloAnvill-Backend Helm Chart
+type: helm
+url: https://anvill1.github.io/soloanvill-backend-chart/
+description: Helm chart для развертывания soloanvill-backend
+# Можно добавить homepage, если есть сайт или GitHub-репозиторий
+homeURL: https://github.com/Anvill1/soloanvill-backend-chart
+keywords:
+  - soloanvill
+  - backend
+  - helm
+maintainers:
+  - name: Anvill1
+    email: rtav3d@gmail.com   # желательно указать корректный email, чтобы могли связаться
