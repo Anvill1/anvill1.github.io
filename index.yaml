@@ -9,6 +9,6 @@ entries:
     name: soloanvill-backend
     type: application
     urls:
-    - https://anvill1.github.io/soloanvill-backend-chart/charts/soloanvill-backend-0.1.0.tgz
+    - https://anvill1.github.io/charts/soloanvill-backend-0.1.0.tgz
     version: 0.1.0
 generated: "2025-04-20T22:47:08.3182413+03:00"
